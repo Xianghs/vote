@@ -1,0 +1,6 @@
+{"level":"info","msg":"| 200 |     95.0035ms |       127.0.0.1 | POST  /user/sign_in |","time":"2020-04-03T14:51:31+08:00"}
+{"level":"info","msg":"| 200 |     248.668ms |       127.0.0.1 | POST  /user/sign_up |","time":"2020-04-03T14:52:01+08:00"}
+{"level":"info","msg":"| 200 |    262.0718ms |       127.0.0.1 | POST  /user/sign_up |","time":"2020-04-03T14:56:37+08:00"}
+{"level":"info","msg":"| 200 |    286.4195ms |       127.0.0.1 | POST  /user/sign_up |","time":"2020-04-03T15:01:52+08:00"}
+{"level":"info","msg":"| 200 |     92.8157ms |       127.0.0.1 | POST  /user/sign_up |","time":"2020-04-03T15:01:55+08:00"}
+{"level":"info","msg":"| 200 |    215.0181ms |       127.0.0.1 | POST  /user/sign_in |","time":"2020-04-03T15:03:12+08:00"}
