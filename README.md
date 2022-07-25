@@ -2,7 +2,9 @@
 2020年本科毕业设计后端部分代码
 
 #直接使用需要补充如下配置信息
-``` ini vote/app/config/config.ini
+>  vote/app/config/config.ini
+
+```   
 ;==================== Mysql
 [mysql]
 Type         	= mysql
