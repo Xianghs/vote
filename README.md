@@ -1,7 +1,7 @@
 # vote
 2020年本科毕业设计后端部分代码
 
-#直接使用需要补充如下配置信息
+# 直接使用需要补充如下配置信息
 >  vote/app/config/config.ini
 
 ```   
@@ -33,4 +33,8 @@ AccessKeyId     =
 AccessKeySecret = 
 BucketName      = 
 
+```
+# 运行
+```
+go run main.go
 ```
